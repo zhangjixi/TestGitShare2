@@ -5,5 +5,7 @@ public class Main {
         System.out.println("Helloorld!");
 
         System.err.println("There is something wrong!");
+
+        System.out.println("dev: fix bug");
     }
 }
